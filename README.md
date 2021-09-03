@@ -1,2 +1,2 @@
 # LDP2
-Lógica da programação 2 do curso Edutech
+Lógica da programação  2  Edutech
